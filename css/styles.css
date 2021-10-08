@@ -3,7 +3,7 @@ body{
 }
 hr{
   border-style:dotted none none none;
-  border-color:grey;
+  border-color:blue;
   border-width: 5px;
   height:0;
   width: 5%;
